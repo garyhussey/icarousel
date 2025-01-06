@@ -1,4 +1,4 @@
 icarousel
 =========
 
-an responsive, infinitely scroll-able carousel plugin for jquery.
+a responsive, infinitely scroll-able carousel plugin for jquery.
